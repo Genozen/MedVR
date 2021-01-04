@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRSamples 1", "VRSamples 1.csproj", "{55EF0299-73C9-9077-1F59-21EF39BF6433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRSamples 1.Editor", "VRSamples 1.Editor.csproj", "{D3AB2248-24ED-1D36-0100-2609436AB822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55EF0299-73C9-9077-1F59-21EF39BF6433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EF0299-73C9-9077-1F59-21EF39BF6433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EF0299-73C9-9077-1F59-21EF39BF6433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EF0299-73C9-9077-1F59-21EF39BF6433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3AB2248-24ED-1D36-0100-2609436AB822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AB2248-24ED-1D36-0100-2609436AB822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AB2248-24ED-1D36-0100-2609436AB822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AB2248-24ED-1D36-0100-2609436AB822}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
